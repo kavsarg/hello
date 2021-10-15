@@ -6,7 +6,7 @@ public class hello {
 		System.out.println("Hello World!");
 System.out.print("Hey,");
 System.out.println("How is your day?");
-System.out.println("xapkat said\"Hi\"to you");
+System.out.println("He said\"Hi\"to you");
 	}
 
 }
